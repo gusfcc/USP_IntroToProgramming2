@@ -1,0 +1,120 @@
+Mes 1
+Ordenação por Inserção Direta: 
+	Número de Movimentações: 2517 	 Número de Comparações: 2418
+
+Ordenação por Inserção Binaria: 
+	Número de Movimentações: 2517 	 Número de Comparações: 533
+
+Ordenação por Seleção: 
+	Número de Movimentações: 297 	 Número de Comparações: 5269
+
+Ordenação por Bubble Sort: 
+	Número de Movimentações: 6957 	 Número de Comparações: 7269
+
+Ordenação por Heap Sort: 
+	Número de Movimentações: 1074 	 Número de Comparações: 1487
+
+Ordenação por Fusão Direta: 
+	Número de Movimentações: 800 	 Número de Comparações: 570
+
+Ordenação por Quick Sort: 
+	Número de Movimentações: 507 	 Número de Comparações: 797
+
+
+
+Mes 2
+Ordenação por Inserção Direta: 
+	Número de Movimentações: 63722 	 Número de Comparações: 63223
+
+Ordenação por Inserção Binaria: 
+	Número de Movimentações: 63722 	 Número de Comparações: 3801
+
+Ordenação por Seleção: 
+	Número de Movimentações: 1497 	 Número de Comparações: 127203
+
+Ordenação por Bubble Sort: 
+	Número de Movimentações: 188172 	 Número de Comparações: 187474
+
+Ordenação por Heap Sort: 
+	Número de Movimentações: 6510 	 Número de Comparações: 10306
+
+Ordenação por Fusão Direta: 
+	Número de Movimentações: 5000 	 Número de Comparações: 3856
+
+Ordenação por Quick Sort: 
+	Número de Movimentações: 3618 	 Número de Comparações: 6002
+
+
+
+Mes 3
+Ordenação por Inserção Direta: 
+	Número de Movimentações: 256895 	 Número de Comparações: 255896
+
+Ordenação por Inserção Binaria: 
+	Número de Movimentações: 256895 	 Número de Comparações: 8572
+
+Ordenação por Seleção: 
+	Número de Movimentações: 2997 	 Número de Comparações: 504868
+
+Ordenação por Bubble Sort: 
+	Número de Movimentações: 764691 	 Número de Comparações: 754397
+
+Ordenação por Heap Sort: 
+	Número de Movimentações: 14052 	 Número de Comparações: 23177
+
+Ordenação por Fusão Direta: 
+	Número de Movimentações: 10000 	 Número de Comparações: 8709
+
+Ordenação por Quick Sort: 
+	Número de Movimentações: 8040 	 Número de Comparações: 14423
+
+
+
+Mes 4
+Ordenação por Inserção Direta: 
+	Número de Movimentações: 6267995 	 Número de Comparações: 6262996
+
+Ordenação por Inserção Binaria: 
+	Número de Movimentações: 6267995 	 Número de Comparações: 54507
+
+Ordenação por Seleção: 
+	Número de Movimentações: 14997 	 Número de Comparações: 12531482
+
+Ordenação por Bubble Sort: 
+	Número de Movimentações: 18773991 	 Número de Comparações: 18755497
+
+Ordenação por Heap Sort: 
+	Número de Movimentações: 82024 	 Número de Comparações: 145001
+
+Ordenação por Fusão Direta: 
+	Número de Movimentações: 70000 	 Número de Comparações: 56881
+
+Ordenação por Quick Sort: 
+	Número de Movimentações: 51027 	 Número de Comparações: 78261
+
+
+
+Mes 5
+Ordenação por Inserção Direta: 
+	Número de Movimentações: 24981690 	 Número de Comparações: 24971691
+
+Ordenação por Inserção Binaria: 
+	Número de Movimentações: 24981690 	 Número de Comparações: 119024
+
+Ordenação por Seleção: 
+	Número de Movimentações: 29997 	 Número de Comparações: 50068169
+
+Ordenação por Bubble Sort: 
+	Número de Movimentações: 74885076 	 Número de Comparações: 74956692
+
+Ordenação por Heap Sort: 
+	Número de Movimentações: 174021 	 Número de Comparações: 314826
+
+Ordenação por Fusão Direta: 
+	Número de Movimentações: 140000 	 Número de Comparações: 123704
+
+Ordenação por Quick Sort: 
+	Número de Movimentações: 111339 	 Número de Comparações: 173425
+
+
+
